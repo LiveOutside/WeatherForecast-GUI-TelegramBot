@@ -36,7 +36,7 @@ class WeatherForecast(QMainWindow):
     def renew_info(self):
         self.get_forecast()
 ```
-![GUI](https://cdn1.savepice.ru/uploads/2021/12/3/b73b0830c32f8d19ff6c7edb95d629e1-full.png)
+![GUI](https://cdn1.savepice.ru/uploads/2021/12/3/ddf5058e3588797767b07fb29b79357e-full.png)
 - ### Functions of moving - QMainWindow w/ Custom TitleBar
 ```py
         # Function for moving QMainWindow which contains custom TitleBar
